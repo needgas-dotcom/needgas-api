@@ -1,0 +1,8 @@
+name = "needgas-api"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "needgas-db"
+database_id = "782f08c1-3b70-473f-b2b9-2184a022032b"
